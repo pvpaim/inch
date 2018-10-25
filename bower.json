@@ -1,0 +1,21 @@
+{
+  "name": "inch",
+  "homepage": "https://github.com/pvpaim/inch",
+  "authors": [
+    "pedro <pv.paim@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
