@@ -1,0 +1,26 @@
+{
+  "name": "inch",
+  "homepage": "https://github.com/pvpaim/inch",
+  "authors": [
+    "pedro <pv.paim@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "devDependencies": {
+    "font-awesome": "^5.4.1",
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1"
+  }
+}
